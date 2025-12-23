@@ -1,0 +1,1 @@
+🌐️👃️🐽️🌐️ The official source repository for the website of the Browsniffica, a browser sniffing workaround, allowing you to test any webpage in any browser in the way it was designed to be. It is a testing tool for WHATWG websites. 
